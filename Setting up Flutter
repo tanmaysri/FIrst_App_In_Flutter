@@ -1,0 +1,8 @@
+Pre-requisite:
+1.  Install VS Code which will be our editor
+2.  Android phone
+3.  Install Android studio and Android SDK
+4.  Install Google USB Driver
+
+Then use the following link to install flutter:
+  https://flutter.io/docs/get-started/install/windows
