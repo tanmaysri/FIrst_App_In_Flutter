@@ -6,3 +6,12 @@ Pre-requisite:
 
 Then use the following link to install flutter:
   https://flutter.io/docs/get-started/install/windows
+
+To run app on the device:
+
+1. First conect device tolaptop
+2. switch on USB debugging mode as per following link:
+      https://developer.android.com/studio/debug/dev-options
+3. Run "flutter devices" to check if device is showing
+4. Run "flutter run" to run the app
+5. press "r" to hot reload (refresh app without compiling again)
